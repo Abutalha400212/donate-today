@@ -1,5 +1,6 @@
 p{
-    line-height: 10px;
+    line-height: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .first{
@@ -13,11 +14,11 @@ p{
 }
 .bit{
     text-decoration: none;
-    background-color: chocolate;
-    padding-bottom: 10px;
-    padding-top: 10px;
-    padding-left: 5px;
-    padding-right: 5px;
+    background-color: orangered;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
     border-radius: 10px;
 }
 .second{
@@ -32,9 +33,10 @@ p{
 .box{
     padding-left: 60px;
     padding-right: 50px;
-box-shadow: 1px 1px 1px 1px rgb(243, 243, 230);
-  margin: 0ch;
+background-color: rgb(221, 208, 183);
+  margin: 1%;
   border-radius: 5px;
+  padding-top: 5px;
  
 }
 .git{
@@ -46,4 +48,36 @@ box-shadow: 1px 1px 1px 1px rgb(243, 243, 230);
     padding:20px;
     display: block;
     line-height: 10px;
+}
+.third{
+    display: flex;
+    padding-left:100px;
+    padding-top:100px ;
+}
+.got{
+    padding-left: 60px;
+    padding-right: 50px;
+background-color: rgb(173, 173, 214);
+  margin: 1%;
+  border-radius: 5px;
+  font-size: medium;
+  padding-top: 5px;
+  
+}
+.jit{
+    padding-left: 60px;
+    padding-right: 50px;
+background-color: rgb(170, 207, 190);
+  margin: 1%;
+  border-radius: 5px;
+  font-size: medium;
+  padding-top: 5px;
+}
+.anik{
+    width: 50%;
+}
+.anik img{
+    width: 90%;
+    height: 120%;
+    
 }
