@@ -51,7 +51,8 @@ background-color: rgb(248, 239, 239);
 }
 .third{
     display: flex;
-    padding-left:80px;
+    padding-left:100px;
+    padding-right: 100px;
 }
 .got{
     padding-left: 60px;
@@ -97,10 +98,8 @@ section{
     padding-top:100px ;
 }
 .tax{
-    border: 2px solid black;
-    margin: 5%;
-    padding-left: 20%;
-    padding-right: 20%;
-display: flex;
+    padding-left: 40px;
+ padding-top: 20px;
+ padding-bottom: 20px;
 
 }
