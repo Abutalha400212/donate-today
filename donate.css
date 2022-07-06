@@ -5,11 +5,11 @@ p{
 
 .first{
     background-image: url(shylet.jpg);
-    background-size: contain;
+    background-size: cover;
     border: 0ch;
     text-align: center;
     background-repeat: no-repeat;
-    padding: 300px 100px;
+    padding: 150px 100px;
     font-size: 25px;
 }
 .bit{
@@ -27,13 +27,13 @@ p{
     text-align: center;
     text-decoration: solid;
     font-size: x-large;
-    padding-left: 300px;
+    padding-left: 200px;
     padding-right: 300px;
 }
 .box{
     padding-left: 60px;
     padding-right: 50px;
-background-color: rgb(221, 208, 183);
+background-color: rgb(248, 239, 239);
   margin: 1%;
   border-radius: 5px;
   padding-top: 5px;
@@ -51,8 +51,7 @@ background-color: rgb(221, 208, 183);
 }
 .third{
     display: flex;
-    padding-left:100px;
-    padding-top:100px ;
+    padding-left:80px;
 }
 .got{
     padding-left: 60px;
@@ -80,4 +79,28 @@ background-color: rgb(170, 207, 190);
     width: 90%;
     height: 120%;
     
+}
+.final{
+    display: flex;
+    background-image: url(iso.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 60%;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 400px;
+padding-right: 500px;
+
+}
+section{
+    padding-left:100px;
+    padding-top:100px ;
+}
+.tax{
+    border: 2px solid black;
+    margin: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+display: flex;
+
 }
